@@ -1,0 +1,16 @@
+.footer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: rgba(148, 3, 3, 0.514);
+  width: 100%;
+  height: 30px;
+  margin-top: 650PX;
+  text-align: center;
+  color: white;
+}
+@media screen and (max-width: 800px) {
+  .footer {
+    background-color: rgb(199, 53, 53);
+  }
+}
